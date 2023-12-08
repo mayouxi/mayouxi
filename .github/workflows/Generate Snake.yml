@@ -17,6 +17,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
 
     steps:
       # 使用 actions/checkout, see: https://github.com/actions/checkout
@@ -40,3 +42,4 @@ jobs:
           branch: main
           default_author: github_actions
           message: 'Generate Contribution Snake'
+  
