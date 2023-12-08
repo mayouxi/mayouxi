@@ -38,15 +38,28 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
+- 🔭 I’m currently working on [PDD](https://www.pinduoduo.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- 👻 I love to share, and currently share technical articles at [juejin]([https://juejin.cn/user/4459274891717223](https://www.pinduoduo.com/))
+- ⛺️ I have a private site: [mayouxi]([https://kunlunxu.cc](https://www.pinduoduo.com/)), you're welcome to come! ~
+- 📨 My email address is `2785631446@qq.com` Welcome to contact me 👏🏻 ~
 <!-- 贪吃蛇, 由工作流定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
+
+<!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+    </td>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=mayouxi&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+    </td>
+  </tr>
+</table>
